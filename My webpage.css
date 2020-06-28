@@ -1,0 +1,28 @@
+header{
+	color: #7D3C98;
+	font-style: italic;
+	font-size: 150%;
+	text-align: center;
+	background-color: #BB8FCE;
+}
+p{
+	color :#FF5733 ;
+	font-family: arial;
+}
+h2{
+	background-color: #85C1E9 ;
+	color: #6A58D6 ;
+}
+nav{
+	color : #F5B041;
+	font-variant: small-caps;
+}
+details{
+	font-style: italic;
+}
+footer{
+	font-style: bold;
+}
+ul{
+	color: #58D68D;
+}
